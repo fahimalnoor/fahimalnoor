@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @fahimalnoor
-- 👀 I’m interested in software development using Java, Php/Laravel
-- 🌱 I’m currently learning Java Enterprise Edition (Spring Framework) and Blockchain Technology (Web 3.0)
-- 💞️ I’m looking forward to collaborating on any web based project
+- 👀 I’m interested in software development or project management
+- 🌱 I’m currently learning Blockchain Technology (Web 3.0)
+- 💞️ I’m looking forward to collaborating on any project & I work with C++, PHP, JavaScript, Java
 - 📫 Contact me at- cto@techno-plex.com or fahimalnoor1@gmail.com
