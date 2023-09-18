@@ -2,4 +2,4 @@
 - 👀 I’m interested in software development or project management
 - 🌱 I’m currently learning Blockchain Technology (Web 3.0)
 - 💞️ I’m looking forward to collaborating on any project & I work with C++, PHP, JavaScript, Java
-- 📫 Contact me at- cto@techno-plex.com or fahimalnoor1@gmail.com
+- 📫 Contact me at- fahimalnoor1@gmail.com
