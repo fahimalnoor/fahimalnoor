@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Fahim
-- 👀 I’m interested in software engineering and software project management
-- 🌱 I’m currently learning Blockchain Technology and Advanced Software Engineering Concept
-- 💞️ I’m looking forward to collaborating on any project & I work with C++, PHP, Java
-- 📫 Contact me at- fahimalnoor1@gmail.com
+- 👀 I’m interested in developing software and managing software projects
+- 🌱 I’m currently learning Blockchain Technology and Advanced Software Engineering Concepts
+- 💞️ I’m looking forward to collaborating on any project and I work with Java, React.js, C++, PHP
+- 📫 Contact me at- fahimalnoor1@gmail.com or anfbhuyan@mun.ca
